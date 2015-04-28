@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YOGA</Machine>
+    <WindowsUser>JF</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c74045f4-3329-4923-a744-c7d7aa6cc718</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>BF47710ABC44E68B3004EA287AD0705E2BE3B45989BAA3143692B21B5AD9DEDB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c74045f4-3329-4923-a744-c7d7aa6cc718_1.0.0.0_neutral__36c50ya4sxyrc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c74045f4-3329-4923-a744-c7d7aa6cc718_36c50ya4sxyrc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c74045f4-3329-4923-a744-c7d7aa6cc718</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=JF</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-28T16:11:58.047</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\bin\Debug\TipCalculatorUniversal.Windows.exe">
+      <PackagePath>TipCalculatorUniversal.Windows.exe</PackagePath>
+      <Modified>2015-04-28T16:47:58.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-28T16:11:57.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-28T16:47:58.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\bin\Debug\TipCalculatorUniversal.Windows.xr.xml">
+      <PackagePath>TipCalculatorUniversal.Windows.xr.xml</PackagePath>
+      <Modified>2015-04-28T16:47:58.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-28T16:11:57.756</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

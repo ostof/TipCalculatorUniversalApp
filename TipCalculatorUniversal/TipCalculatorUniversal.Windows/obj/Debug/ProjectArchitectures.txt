@@ -1,0 +1,1 @@
+c:\users\jf\documents\visual studio 2013\Projects\TipCalculatorUniversal\TipCalculatorUniversal\TipCalculatorUniversal.Windows\TipCalculatorUniversal.Windows.csproj;neutral
